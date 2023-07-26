@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\bin\Debug\net7.0\RelationshipAdminOrUser.exe
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\bin\Debug\net7.0\RelationshipAdminOrUser.deps.json
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\bin\Debug\net7.0\RelationshipAdminOrUser.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\bin\Debug\net7.0\RelationshipAdminOrUser.dll
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\bin\Debug\net7.0\RelationshipAdminOrUser.pdb
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.dll
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\refint\RelationshipAdminOrUser.dll
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.pdb
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\RelationshipAdminOrUser.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\RelationshipAdminOrUser\obj\Debug\net7.0\ref\RelationshipAdminOrUser.dll
